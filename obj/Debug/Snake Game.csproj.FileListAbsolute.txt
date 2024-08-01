@@ -1,0 +1,6 @@
+D:\Simple Games\Snake Game\obj\Debug\Snake Game.csproj.AssemblyReference.cache
+D:\Simple Games\Snake Game\obj\Debug\Snake Game.g.resources
+D:\Simple Games\Snake Game\obj\Debug\Snake_Game.Form1.resources
+D:\Simple Games\Snake Game\obj\Debug\Snake_Game.Properties.Resources.resources
+D:\Simple Games\Snake Game\obj\Debug\Snake Game.csproj.GenerateResource.cache
+D:\Simple Games\Snake Game\obj\Debug\Snake Game.csproj.CoreCompileInputs.cache
